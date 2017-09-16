@@ -14,6 +14,8 @@ public class Student implements Comparable {
 	 * student id
 	 */
 	private int id;
+System.out.println("enter student id");
+Scanner sc=Integer.parseInt(id);
 
 	/**
 	 * student name and surname separated by the whitespace for example:
